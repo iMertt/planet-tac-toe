@@ -4,7 +4,7 @@ A futuristic 3x3 Tic Tac Toe game featuring Earth vs Saturn in an epic galactic 
 
 ## 🌐 Live Demo
 
-Play the game online: [Planet Tac Toe Live Demo]([https://imertt.github.io/planet-tac-toe/planet-tac-toe.html](https://loquacious-unicorn-4de986.netlify.app/))
+Play the game online: [Planet Tac Toe Live Demo](https://loquacious-unicorn-4de986.netlify.app/)
 
 ## 🚀 Features
 
