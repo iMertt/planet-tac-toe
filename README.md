@@ -2,6 +2,10 @@
 
 A futuristic 3x3 Tic Tac Toe game featuring Earth vs Saturn in an epic galactic battle! This game combines classic gameplay with stunning visual effects, AI opponents, and a space-themed design.
 
+## 🌐 Live Demo
+
+Play the game online: [Planet Tac Toe Live Demo]([https://imertt.github.io/planet-tac-toe/planet-tac-toe.html](https://loquacious-unicorn-4de986.netlify.app/))
+
 ## 🚀 Features
 
 ### 🎮 Gameplay
@@ -44,10 +48,6 @@ A futuristic 3x3 Tic Tac Toe game featuring Earth vs Saturn in an epic galactic 
 - **Pure JavaScript**: Clean, object-oriented code structure
 - **CSS3 Animations**: Hardware-accelerated smooth effects
 
-## 🌐 Live Demo
-
-Play the game online: [Planet Tac Toe Live Demo](https://imertt.github.io/planet-tac-toe/planet-tac-toe.html)
-
 ## 📥 Installation & Setup
 
 ### Option 1: Download and Play
@@ -62,9 +62,7 @@ cd planet-tac-toe
 # Open planet-tac-toe.html in your browser
 ```
 
-### Option 3: GitHub Pages
-The game is automatically deployed via GitHub Pages and accessible at:
-`https://imertt.github.io/planet-tac-toe/planet-tac-toe.html`
+
 
 ## 🎨 Game Features Breakdown
 
@@ -112,42 +110,6 @@ The game is fully responsive and works great on:
 - 💻 Desktop computers
 - 🖥️ Large screens
 
-## 🔧 Development
 
-### File Structure
-```
-planet-tac-toe/
-├── planet-tac-toe.html    # Complete game (HTML + CSS + JavaScript)
-└── README.md              # This file
-```
 
-### Key Components
-- **PlanetTacToe Class**: Main game logic
-- **CSS Animations**: Visual effects and transitions
-- **Responsive Grid**: Flexible game board layout
-- **Event Handling**: User interaction management
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-- Report bugs
-- Suggest new features
-- Submit pull requests
-- Improve documentation
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🌟 Acknowledgments
-
-- Inspired by the classic Tic Tac Toe game
-- Google Fonts for the Orbitron typography
-- CSS3 for amazing visual effects
-- The vast cosmos for inspiration 🌌
-
----
-
-**Made with ❤️ and ☕ for the love of coding and space!**
-
-*Enjoy your galactic battle between Earth and Saturn!* 🚀 
